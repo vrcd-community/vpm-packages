@@ -1,0 +1,18 @@
+{
+	"name" : "虚拟现实中文开发者社区（Virtual Reality Chinese Developer）",
+	"id":"cn.org.vrcd.vpm",
+	"description" : "由 VRCD 制作和发布的 VPM 包",
+	"author" : {
+		"email" : "us@vrcd.org.cn",
+		"name" : "VRCD",
+		"url" : "https://vrcd.org.cn"
+	},
+	"infoLink" : {
+		"url" : "https://github.com/vrcd-community/vpm-packages",
+		"text" : "在 GitHub 上查看仓库"
+	},
+	"bannerUrl" : "banner.png",
+	"url" : "https://vrcd-community.github.io/vpm-packages/index.json",
+	"githubRepos" : [ "vrcd-community/vrchat-sdk-patcher" ],
+	"packages" : []
+}
